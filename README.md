@@ -1,1 +1,2 @@
 # odin-recipes
+This project was to create a small recipes website using basic html. It helped me become accustomed to basic formatting, such as writing text in headers, lists, and paragraphs. I also used links and images in different ways. One more important aspect of this project is the usage of git to add, commit, and push changes using CLI.
